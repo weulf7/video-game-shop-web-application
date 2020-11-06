@@ -1,0 +1,22 @@
+.logo-pic{
+    width: 30%;
+}
+
+.brands-area img{
+    width: 80% !important;
+    height: 100px;
+}
+
+.latest-product img {
+    width: 100% !important;
+    height: 300px;
+}
+
+.slider-area img{
+    width: 50% ;
+    height: 300px;
+}
+
+body{
+font-family: 'Fredoka One';
+}
