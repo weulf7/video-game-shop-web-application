@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c8186cf-01c2-4ee5-802d-84f1919dffe1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._dummy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._fonts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._images" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._index-logged.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._text-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._cart-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._cart-thumb-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._cart-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._cart-thumb-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._cart-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._cart-thumb-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-4@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-5@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-6@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-7@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-8@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-cover-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-cover-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-cover-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-cover-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-cover-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._game-cover-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._single-game-cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._single-game-cover@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._slide-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._slide-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._slide-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._small-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._small-thumb-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._small-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._small-thumb-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._small-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dummy/._small-thumb-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/._FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/._font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/._fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/._fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/._fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/._fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/._lineo-icon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/._Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/._demo-files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/._demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/._fonts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/._selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/demo-files/._demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/demo-files/._demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/fonts/._icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/fonts/._icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/fonts/._icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/fonts/lineo-icon/fonts/._icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._arrow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._icon-home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._icon-home@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._icon-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._icon-search@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/images/._select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/._app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/._ie-support" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/._jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/._jquery-1.11.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/._min" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/._plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/ie-support/._html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/ie-support/._pie.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/ie-support/._respond.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/min/._app-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/js/min/._plugins-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/._layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/._libs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/._pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/._style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/layout/.__content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/layout/.__footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/layout/.__header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/.__components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/.__global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/.__mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/.__normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/.__settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/._bootstrap-grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/bootstrap-grid/.__grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/bootstrap-grid/.__mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/sass/libs/bootstrap-grid/.__settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/cart-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/cart-thumb-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/cart-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/cart-thumb-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/cart-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/cart-thumb-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-4@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-5@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-6@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-7@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-8@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-cover-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-cover-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-cover-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-cover-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-cover-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/game-cover-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/single-game-cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/single-game-cover@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/slide-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/slide-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/slide-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/small-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/small-thumb-1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/small-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/small-thumb-2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/small-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy/small-thumb-3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/lineo-icon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arrow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-home@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-search@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-logged.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ie-support/html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ie-support/pie.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ie-support/respond.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/min/app-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/min/plugins-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/_settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/bootstrap-grid/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/bootstrap-grid/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/libs/bootstrap-grid/_settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video-game-shop-web/js/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video-game-shop-web/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../video-game-shop-web/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video-game-shop-web/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../video-game-shop-web/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video-game-shop-web/js/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../video-game-shop-web/js/shop.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jvBP6G2atchnXyF1e36RyzrRFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects for Java/PhoneAgendaWeb" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8186cf-01c2-4ee5-802d-84f1919dffe1" name="Default Changelist" comment="" />
+      <created>1604674657865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604674657865</updated>
+      <workItem from="1604674658907" duration="3174000" />
+      <workItem from="1604736586412" duration="3049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604676597029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604676597029" />
+  </component>
+</project>
