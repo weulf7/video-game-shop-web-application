@@ -53,6 +53,8 @@ window.Shop = {
 
     },
 
+
+
     displayProduct: function (products) {
         let productsHtml = '';
 

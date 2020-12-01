@@ -2,6 +2,48 @@
     width: 100% !important;
     height: 300px !important;
 }
-/*.inner-product{*/
-/*    height: 600px !important;*/
-/*}*/
+
+
+.ac-pic{
+    width: 100% !important;
+    height: 300px !important;
+}
+.product-row{
+    align-items: flex-start !important;
+}
+.quantity-inp{
+    /*text-align: center;*/
+}
+
+.col{
+   text-align: center;
+    font-family: 'Bree Serif', serif;
+    color: snow;
+   padding: 40px;
+    border-radius: 30%;
+}
+.col img{
+    width: 100% !important;
+}
+.html{
+    font-family: 'Bree Serif', serif;
+}
+
+.card-body{
+    background: black;
+}
+.col h5{
+    font-size: 1.3rem;
+}
+
+.product img{
+    height: 200px !important;
+}
+
+.main-navigation{
+    margin-bottom: 30px;
+    width: 100% !important;
+}
+.product a{
+    text-align: center !important;
+}

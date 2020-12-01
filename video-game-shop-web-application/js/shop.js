@@ -1,7 +1,7 @@
 window.Shop = {
 
 
-    API_URL: "http://localhost:8087",
+    API_URL: "http://localhost:8088",
 
 
     getProducts: function () {
@@ -17,7 +17,7 @@ window.Shop = {
 
     addProductToCart: function (productId) {
 
-        const userId = 5;
+        const userId = 1;
 
         const requestBody = {
             userId: userId,
@@ -25,42 +25,67 @@ window.Shop = {
         }
 
         $.ajax({
-            url: Shop.API_URL,
-            contentType: "application/json,",
+            url: Shop.API_URL +"/carts",
+            contentType: "application/json",
             method: "PUT",
             data: JSON.stringify(requestBody)
         }).done(function () {
-            window.location("cart.html");
+            window.location.replace("cart.html");
         })
     },
 
     getProductHtml: function (product) {
 
         return `
-            <div class="product">
-            <div class="inner-product">
-            <div class="figure-image">
-            <a href="single.html"><img src="dummy/game-1.jpg" alt="Game 1"></a>
-            </div>
-            <h3 class="product-title"><a href="#">${product.name}</a></h3>
-            <a href="#" class="button" data-product_id="${product.id}">Add to cart</a>
-            <a href="#" class="button muted">Read Details</a>
-            <div class="product-price">
-            <ins>$${product.price}</ins>
-            </div>
-            </div>
-            </div> 
+           
+            
+            
+             <div style="text-align: center !important;color: black" class="col mb-4">
+                            <div class="card h-100">
+                                <img style="height: 400px" src="${product.imageUrl}" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <h5 style="font-size: 1.3rem;text-align: center" class="card-title"><strong>${product.name}</strong></h5>
+                                    <p >${product.description}</p>
+                                    <div  style="margin-bottom: 2rem" class="product-price">
+                                        <ins class="price2"><strong>$${product.price}</strong></ins>
+                                                                         
+                                  </div>
+                                  <div style="position: relative;bottom: 1px">
+                                   <button id="button" data-product_id="${product.id}" type="button" class="btn btn-secondary btn-lg">Add to cart</button>
+                                    </div>
+                                  
+                                </div>
+                            </div>
+                        </div>
+            
+            
         `
     },
+
+
 
     displayProducts:function (products){
         let productsHtml='';
 
         products.forEach(product =>productsHtml += Shop.getProductHtml(product));
 
-        $('.product-list .row').html(productsHtml);
+        $('#product-list').html(productsHtml);
+    },
+
+    bindEvents:function (){
+    $('#product-list').delegate('#button','click',function (event){
+        event.preventDefault();
+        let productId = $(this).data('product_id');
+
+        Shop.addProductToCart(productId);
+
+
+    })
+
     }
+
 
 
 }
 Shop.getProducts();
+Shop.bindEvents();
