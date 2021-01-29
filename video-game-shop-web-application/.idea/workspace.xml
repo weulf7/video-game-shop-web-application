@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c8186cf-01c2-4ee5-802d-84f1919dffe1" name="Default Changelist" comment="" />
+    <list default="true" id="4c8186cf-01c2-4ee5-802d-84f1919dffe1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Projects for Java/PhoneAgendaWeb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../video-game-shop" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +60,9 @@
       <workItem from="1606582191333" duration="246000" />
       <workItem from="1606585303496" duration="125000" />
       <workItem from="1606810121245" duration="394000" />
+      <workItem from="1609931104122" duration="701000" />
+      <workItem from="1610903375575" duration="355000" />
+      <workItem from="1611218874877" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1604740586239</created>
@@ -90,31 +95,5 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="finalized my project" />
     <option name="LAST_COMMIT_MESSAGE" value="finalized my project" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606507688772">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606507688772" />
-    <state x="661" y="248" key="CommitChangelistDialog2" timestamp="1606810487865">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="661" y="248" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606810487865" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606133218268">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606133218268" />
-    <state x="982" y="477" key="Github.ShareDialog" timestamp="1604740486271">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="982" y="477" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604740486271" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606810493276">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606810493276" />
-    <state x="666" y="76" width="587" height="888" key="find.popup" timestamp="1606569483384">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="666" y="76" width="587" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606569483384" />
   </component>
 </project>
